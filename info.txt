@@ -2,3 +2,4 @@ remove debug
 all good
 Removed test case since code didn't pass QA
 whatever.
+Reset error count between rows.
